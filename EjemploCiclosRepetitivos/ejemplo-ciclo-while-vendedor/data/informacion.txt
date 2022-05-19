@@ -1,7 +1,21 @@
 Datos de Vendedor
-Nombre: René 
-Edad: 38
-Salario mínimo: 100,00
-Número de autos: 1
-Pago mensual: 250,00
+Nombre: Pablito3
+Edad: 123
+Salario mínimo: 213,00
+Número de autos: 213
+Pago mensual: 32163,00
+
+Datos de Vendedor
+Nombre: Pablito4
+Edad: 321
+Salario mínimo: 123,00
+Número de autos: 213
+Pago mensual: 32073,00
+
+Datos de Vendedor
+Nombre: Pablito5
+Edad: 123
+Salario mínimo: 42,00
+Número de autos: 421
+Pago mensual: 63192,00
 
